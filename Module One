@@ -1,0 +1,6 @@
+Class Model{
+private String Name;
+private String LastName;
+private String FisrtName;
+private String Phoneno;
+}
