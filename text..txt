@@ -1,0 +1,6 @@
+Class{
+took one module
+
+Calss{
+
+Took another modulel}}
